@@ -1,6 +1,6 @@
 # sp
 
-**项目状态 · 历史归档（2026-11-26）**。2019 年的 C 预测原语、Python ctypes 入口与 notebook。Makefile 只有构建共享库，当前树无验收说明。 补一页归档 README，列出两个原型库、样例 notebook 和未验证范围。
+**项目状态 · 历史归档。** 保留 C 序列预测原型、共享库构建脚本与 Python 使用笔记。
 
 Archived C experiments in sequence prediction. The C sources are small shared-library prototypes with Python and notebook material alongside them.
 
